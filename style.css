@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.email-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.main-table {
+  width: 100%;
+  border: 0;
+}
+
+.main-padding {
+  padding: 15px;
+}
+
+.header-table {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.logo img {
+  width: 100px;  /* Tamanho reduzido para o logo */
+}
+
+.info {
+  font-size: 14px;
+  padding-left: 15px;
+  text-align: left; /* Alinhar à esquerda */
+}
+
+.info h2 {
+  font-size: 18px;
+  margin: 0;
+}
+
+.social-links {
+  display: flex;
+  justify-content: space-between;
+}
+
+.social-links a {
+  margin-right: 10px;
+}
+
+.social-links img {
+  width: 20px;
+}
+
+.table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.table td {
+  padding: 5px;
+}
+
+.address {
+  text-align: left; /* Alinhar endereço à esquerda */
+  font-size: 14px;
+  color: #333;
+}
+
+.address p {
+  margin: 0;
+}
+
+.phone {
+  text-align: left; /* Alinhar telefone à esquerda */
+}
+
+.footer-table {
+  width: 100%;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.footer-table p {
+  font-size: 11px;
+  color: #888;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #666;
+}
